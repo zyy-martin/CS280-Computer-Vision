@@ -6,3 +6,5 @@ This repository contains assignments from CS280 at UC Berkeley. Topics include:
 ## 2. Hybrid images
 ## 3. Scene category classification w/ ResNet and Tensorflow
 ## 4. 3D reconstruction
+
+Acknowledgement: These assignments are finished in collaboration with Yuting Ye and Jianbo Chen
