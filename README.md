@@ -1,1 +1,1 @@
-# Scene-Classification-w-Resnet
+# Scene-Classification-with-Resnet
