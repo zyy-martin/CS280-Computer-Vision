@@ -1,6 +1,6 @@
 # CS 280 Computer Vision
 
-Acknowledgement: These assignments are finished in collaboration with Yuting Ye and Jianbo Chen
+Author: Yaoyang Zhang, Yuting Ye and Jianbo Chen
 
 This repository contains assignments from CS280 at UC Berkeley. Topics include:
 
